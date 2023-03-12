@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lyricrain/movie_app_step2/static/css/main.488af97b.css",
+    "main.js": "/lyricrain/movie_app_step2/static/js/main.c2ad3636.js",
+    "index.html": "/lyricrain/movie_app_step2/index.html",
+    "main.488af97b.css.map": "/lyricrain/movie_app_step2/static/css/main.488af97b.css.map",
+    "main.c2ad3636.js.map": "/lyricrain/movie_app_step2/static/js/main.c2ad3636.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.488af97b.css",
+    "static/js/main.c2ad3636.js"
+  ]
+}
