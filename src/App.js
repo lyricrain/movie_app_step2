@@ -12,7 +12,7 @@ function App() {
     <BrowserRouter>
     <Navigation></Navigation>
       <Routes>        
-        <Route path='/' element={<Home/>}></Route>
+        <Route path='/movie_app_step2' element={<Home/>}></Route>
         <Route path='/about' element={<About></About>}></Route>
         <Route path='/movie-detail' element={<Detail></Detail>}></Route>
       </Routes>
